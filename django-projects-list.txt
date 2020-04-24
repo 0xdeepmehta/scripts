@@ -1,0 +1,32 @@
+# Django Projects List To Complete
+
+URL: https://data-flair.training/blogs/django-project-ideas/amp/
+
+1. Sending Email With Django.
+2. ✅Login System With Django.
+3. Text to HTML Generator.
+4. Python Calorie Counter.
+5. Django Chat App.
+6. RegEx Query tool.
+7. Python Password Safe.
+8. Django Hospital Management System.
+9. Automatic Tweet Posting.
+10. Syntax Highlighter
+11. Python Library Management System
+12. Socket Programming in python.
+13. ✅TODO App in Django.
+14. Dictionary Webapp in Django.
+15. Resume Maker App in Django.
+16. Railway Inquery System in Django.
+17. NOTES app in django.
+18. Django Quiz App.
+19. Blog Web app.
+20. Cloth Online Store with payment.
+21. Interactive web maps.
+22. Django Social Network app.
+23. Django Pinterest Clone.
+24. News Aggregator Web app.
+25. Django Location Based Webapp.
+26. Content Management System.
+27. Video Chatting Website.
+
