@@ -1,23 +1,3 @@
-# from github import Github
-
-# git = Github("vivekascoder", "@Coder01")
-# user = git.get_user()
-
-# repos_list = user.get_repos()
-
-# begining = """
-# [1]-->  All Repositories.
-# [2]-->
-# """
-
-# # print("Name the Repo: ")
-# # i = input(">>> ")
-# # user.create_repo(i, description="Bot create repo", private=True)
-
-# repo = user.get_repo("bot-create-repo")
-# # repo.create_file("index.js", message="i'm bot.",
-# #                  content="Hello Everyone i'm github bot.")
-
 from github import Github
 from terminaltables import SingleTable
 from getpass import getpass
